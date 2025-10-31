@@ -1,22 +1,22 @@
 # Task 8: Simple Sales Dashboard Design
 
-This repository contains the deliverables for Task 8 of the Data Analyst Internship with Elevate Labs. [cite_start]The objective of this task was to build a simple, interactive sales dashboard using Tableau. [cite: 5, 7]
+This repository contains the deliverables for Task 8 of the Data Analyst Internship with Elevate Labs. The objective of this task was to build a simple, interactive sales dashboard using Tableau. 
 
 ## 🎯 Objective
 
-[cite_start]The goal was to create a basic interactive dashboard to visualize sales performance by product, region, and month using the provided Superstore dataset. [cite: 7, 12]
+[cite_start]The goal was to create a basic interactive dashboard to visualize sales performance by product, region, and month using the provided Superstore dataset. 
 
 ## 🛠️ Tools Used
 
-* **Tableau:** Used for all data visualization and dashboard creation. [cite: 9]
-* **Dataset:** `Sample - Superstore.csv` (Columns used: `Order Date`, `Region`, `Category`, `Sales`). [cite: 12]
+* **Tableau:** Used for all data visualization and dashboard creation. 
+* **Dataset:** `Sample - Superstore.csv` (Columns used: `Order Date`, `Region`, `Category`, `Sales`). 
 
 ##  deliverables
 
 This repository includes:
 
-1.  **Dashboard Screenshot (`Dashboard 1.png`):** An image export of the final interactive dashboard. [cite: 14]
-2.  **Insights File (`insights.txt`):** A text file containing 3-4 key insights derived from the dashboard. [cite: 15]
+1.  **Dashboard Screenshot (`Dashboard 1.png`):** An image export of the final interactive dashboard. 
+2.  **Insights File (`insights.txt`):** A text file containing 3-4 key insights derived from the dashboard. 
 3.  **Dataset (`.csv`):** The raw data file used for the analysis.
 4.  **README (`.md`):** This file, explaining the project.
 
@@ -48,14 +48,12 @@ This repository includes:
 
 The final dashboard includes the following components:
 
-* **Line Chart:** Sales over Months [cite: 18]
-* **Bar Chart:** Sales by Region [cite: 19]
-* **Pie Chart:** Sales by Category (as a substitute for the Donut Chart) [cite: 20]
-* **Interactive Filter:** The dashboard is filtered by `Region`. [cite_start]Clicking a region on the bar chart filters the line chart and pie chart accordingly. [cite: 22]
+* **Line Chart:** Sales over Months 
+* **Bar Chart:** Sales by Region 
+* **Pie Chart:** Sales by Category (as a substitute for the Donut Chart)
+* **Interactive Filter:** The dashboard is filtered by `Region`. [cite_start]Clicking a region on the bar chart filters the line chart and pie chart accordingly. 
 
 ## 💡 Key Insights
-
-*(This is where you should copy and paste the 3-4 insights you wrote in your `insights.txt` file. Here are some examples based on the dataset.)*
 
 * **Insight 1:** The **West** region consistently had the highest sales, while the **South** region had the lowest.
 * **Insight 2:** The **"Technology"** category is the highest-grossing category, followed by "Furniture."
