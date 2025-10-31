@@ -4,7 +4,7 @@ This repository contains the deliverables for Task 8 of the Data Analyst Interns
 
 ## 🎯 Objective
 
-[cite_start]The goal was to create a basic interactive dashboard to visualize sales performance by product, region, and month using the provided Superstore dataset. 
+The goal was to create a basic interactive dashboard to visualize sales performance by product, region, and month using the provided Superstore dataset. 
 
 ## 🛠️ Tools Used
 
